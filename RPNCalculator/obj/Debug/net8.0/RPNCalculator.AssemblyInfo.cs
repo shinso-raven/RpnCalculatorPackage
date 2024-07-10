@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPNCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5b5357d1e5185906278fcaf679d3cdee17aa2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPNCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPNCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

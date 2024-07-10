@@ -10,3 +10,4 @@
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/obj/Debug/net8.0/RPNCalculator.pdb
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/obj/Debug/net8.0/ref/RPNCalculator.dll
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/obj/Debug/net8.0/RPNCalculator.csproj.AssemblyReference.cache
+/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/obj/Debug/net8.0/RPNCalculator.sourcelink.json

@@ -100,3 +100,4 @@
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/bin/Debug/net8.0/RPNCalculator.dll
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/bin/Debug/net8.0/RPNCalculator.pdb
 /home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/bin/Debug/net8.0/Optional.dll
+/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/obj/Debug/net8.0/RPNCalculator.Test.sourcelink.json
