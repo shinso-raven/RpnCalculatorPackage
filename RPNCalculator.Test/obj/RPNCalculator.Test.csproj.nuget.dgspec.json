@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/RPNCalculator.Test.csproj": {}
+  },
+  "projects": {
+    "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/RPNCalculator.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/RPNCalculator.Test.csproj",
+        "projectName": "RPNCalculator.Test",
+        "projectPath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/RPNCalculator.Test.csproj",
+        "packagesPath": "/home/shinsoraven/.nuget/packages/",
+        "outputPath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shinsoraven/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj": {
+                "projectPath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Optional": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj",
+        "projectName": "RPNCalculator",
+        "projectPath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj",
+        "packagesPath": "/home/shinsoraven/.nuget/packages/",
+        "outputPath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/shinsoraven/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Optional": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

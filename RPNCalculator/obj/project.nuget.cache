@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Wrrpeifkj0MzFpirJEwXgfvwtx8DEoXga4dvDZthC0Zso44GHCOJjRzcYYiSrKW8m7VIJ3xXgRWUEnhxDc4Tg==",
+  "success": true,
+  "projectFilePath": "/home/shinsoraven/Projects/Practicas programacion/Tendencias desarrollo de software/FinalProject/RPNCalculatorPackage/RPNCalculator/RPNCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/shinsoraven/.nuget/packages/optional/4.0.0/optional.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
