@@ -36,9 +36,21 @@ public class Tests
         Assert.That(result, Is.EqualTo(expectedResult));
     }
 
+    [TestCase("4 2 + 3 -", "3")]
+    [TestCase("3 5 8 * 7 + *", "141")]
+    public void Calculator_solves_long_operations(string input, string expectedResult)
+    {
+        var objInput = RpnNotation.From(input);
+        var operation = new RpnCalculation(objInput);
+
+        var result = operation.ResultOrError();
+        Assert.That(result, Is.EqualTo(expectedResult));
+    }
+
+    [TestCase("3 k 8 * + + *")]
     public void Calculator_returns_error(string input)
     {
-        string expectedResult = "";
+        string expectedResult = "Error trying to solve the operation";
 
         var objInput = RpnNotation.From(input);
         var operation = new RpnCalculation(objInput);
